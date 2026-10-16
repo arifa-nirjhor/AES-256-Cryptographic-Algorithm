@@ -252,6 +252,6 @@ This project is intended to help learners understand:
 
 ## Author
 
-**Arifa Nirjhor**
+**Umme Arifa Zaman Nirjhor**
 
 Educational Python implementation for learning and demonstrating AES-256 internals.
