@@ -254,4 +254,4 @@ This project is intended to help learners understand:
 
 **Umme Arifa Zaman Nirjhor**
 
-Educational Python implementation for learning and demonstrating AES-256 internals.
+**Educational** Python implementation for learning and demonstrating **AES-256 internals**.
